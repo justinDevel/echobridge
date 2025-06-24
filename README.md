@@ -59,7 +59,7 @@ git clone https://github.com/justinDevel/echobridge.git
 cd echobridge
 npm install
 
-
+```
 ###  Add Environment Variables
 
 Create a `.env` file in the root folder with the following contents:
